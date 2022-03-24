@@ -1,6 +1,6 @@
 public class main {
 
     public static void main(String[] args) {
-        System.out.println("ki34sate met wortel");
+        System.out.println("ki34sate wortel soep met wortel");
     }
 }
